@@ -1,0 +1,22 @@
+Made available by kind permission of the authors
+
+You may do with this code whatever you want, but you must refer to
+the original work (BibTeX entry below for your convenience):
+
+Pingzhong Tang and Fangzhen Lin
+Discovering theorems in game theory: two-person games with unique pure Nash equilibrium payoffs
+Artificial Intelligence 175.14–15 (2011), pp. 2010–2020
+
+No implicit/explicit guarantee.
+
+@ARTICLE{ta-li-11,
+  AUTHOR =       {Pingzhong Tang and Fangzhen Lin},
+  TITLE =        {Discovering theorems in game theory: two-person games with unique pure Nash equilibrium payoffs},
+  JOURNAL =      {Artificial Intelligence},
+  YEAR =         {2011},
+  volume =       {175},
+  number =       {14--15},
+  pages =        {2010--2020},
+  month =        {September},
+}
+
